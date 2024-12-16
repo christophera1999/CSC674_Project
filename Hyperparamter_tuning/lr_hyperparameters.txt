@@ -1,0 +1,6 @@
+Best Hyperparameters for Logistic Regression: {'penalty': 'l1', 'solver': 'liblinear', 'C': 0.01}
+Best Cross-validated Accuracy: 0.9238249264981345
+Best Accuracy with Fairness Conditions Met: 0.9238249264981345
+Best Hyperparameters with Fairness Conditions Met: {'penalty': 'l1', 'solver': 'liblinear', 'C': 0.01}
+
+Final Model Accuracy with Best Hyperparameters: 0.9238249264981345

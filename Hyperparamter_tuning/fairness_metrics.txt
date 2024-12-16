@@ -1,0 +1,792 @@
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18187702265372163
+Equal Opportunity Difference: 0.06813047856254528
+Average Absolute Odds Difference: 0.04070767174549064
+Disparate Impact: 1.3897364771151177
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.181733636186992
+Equal Opportunity Difference: 0.06349769993453791
+Average Absolute Odds Difference: 0.03851815898724635
+Disparate Impact: 1.4157436672481076
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1939978693039056
+Equal Opportunity Difference: 0.0685807390217581
+Average Absolute Odds Difference: 0.05110081088023945
+Disparate Impact: 1.4611268251662717
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18760578102072406
+Equal Opportunity Difference: 0.06855712153392524
+Average Absolute Odds Difference: 0.0447227017480714
+Disparate Impact: 1.4198961641937429
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18477155319704924
+Equal Opportunity Difference: 0.07057877849241523
+Average Absolute Odds Difference: 0.04152665945450615
+Disparate Impact: 1.4253796958730924
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1939978693039056
+Equal Opportunity Difference: 0.0685807390217581
+Average Absolute Odds Difference: 0.05110081088023945
+Disparate Impact: 1.4611268251662717
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18535447948702494
+Equal Opportunity Difference: 0.07160113786277855
+Average Absolute Odds Difference: 0.042109376917252514
+Disparate Impact: 1.4211016631807762
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19428062205605473
+Equal Opportunity Difference: 0.07837852331240547
+Average Absolute Odds Difference: 0.050363200331472915
+Disparate Impact: 1.460590021857368
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19786528372429596
+Equal Opportunity Difference: 0.07609415653337515
+Average Absolute Odds Difference: 0.054809390817110476
+Disparate Impact: 1.4740522422561257
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13277318807078198
+Equal Opportunity Difference: 0.03595040105272873
+Average Absolute Odds Difference: 0.012314258879467355
+Disparate Impact: 1.2540115520392965
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13068805403123684
+Equal Opportunity Difference: 0.03572839666710015
+Average Absolute Odds Difference: 0.009325172041356827
+Disparate Impact: 1.250485436893204
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13290451399358105
+Equal Opportunity Difference: 0.038854101718575174
+Average Absolute Odds Difference: 0.01139599896930446
+Disparate Impact: 1.2550034967911798
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13166763821048333
+Equal Opportunity Difference: 0.03508572314524927
+Average Absolute Odds Difference: 0.011543051840640334
+Disparate Impact: 1.2514980329119303
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1305486877458173
+Equal Opportunity Difference: 0.03616073562083988
+Average Absolute Odds Difference: 0.008888325208362496
+Disparate Impact: 1.2502845310183768
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13290451399358105
+Equal Opportunity Difference: 0.038854101718575174
+Average Absolute Odds Difference: 0.01139599896930446
+Disparate Impact: 1.2550034967911798
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13277184801034525
+Equal Opportunity Difference: 0.036482072381765374
+Average Absolute Odds Difference: 0.012459117045800328
+Disparate Impact: 1.2541432070898153
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13234838891234002
+Equal Opportunity Difference: 0.03755708485735598
+Average Absolute Odds Difference: 0.010989445535065534
+Disparate Impact: 1.25407103276892
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1333185926685293
+Equal Opportunity Difference: 0.03874309952576083
+Average Absolute Odds Difference: 0.011969449773292729
+Disparate Impact: 1.2560013792429088
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19161524184740736
+Equal Opportunity Difference: 0.08055730602818312
+Average Absolute Odds Difference: 0.05270000827668764
+Disparate Impact: 1.4053291758202822
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18335242919455663
+Equal Opportunity Difference: 0.07518821748538773
+Average Absolute Odds Difference: 0.03894152840127514
+Disparate Impact: 1.4018113579898859
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.194655838978338
+Equal Opportunity Difference: 0.076269203796136
+Average Absolute Odds Difference: 0.05300547059141364
+Disparate Impact: 1.4404377118669764
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19282397636133392
+Equal Opportunity Difference: 0.07859427601007829
+Average Absolute Odds Difference: 0.051938350207061834
+Disparate Impact: 1.4150355640932455
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18598162777141247
+Equal Opportunity Difference: 0.07400220281698289
+Average Absolute Odds Difference: 0.04226727437709947
+Disparate Impact: 1.4086857425550148
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.194655838978338
+Equal Opportunity Difference: 0.076269203796136
+Average Absolute Odds Difference: 0.05300547059141364
+Disparate Impact: 1.4404377118669764
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1944441094293352
+Equal Opportunity Difference: 0.0791669306268249
+Average Absolute Odds Difference: 0.05358080530662572
+Disparate Impact: 1.426893203883495
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19369501564520558
+Equal Opportunity Difference: 0.07952925067546013
+Average Absolute Odds Difference: 0.050450721315209515
+Disparate Impact: 1.4362202015385497
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19659088624896986
+Equal Opportunity Difference: 0.07647953836424726
+Average Absolute Odds Difference: 0.055239448573026276
+Disparate Impact: 1.4462095773414119
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18187702265372163
+Equal Opportunity Difference: 0.06813047856254528
+Average Absolute Odds Difference: 0.04070767174549064
+Disparate Impact: 1.3897364771151177
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.181733636186992
+Equal Opportunity Difference: 0.06349769993453791
+Average Absolute Odds Difference: 0.03851815898724635
+Disparate Impact: 1.4157436672481076
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1939978693039056
+Equal Opportunity Difference: 0.0685807390217581
+Average Absolute Odds Difference: 0.05110081088023945
+Disparate Impact: 1.4611268251662717
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18760578102072406
+Equal Opportunity Difference: 0.06855712153392524
+Average Absolute Odds Difference: 0.0447227017480714
+Disparate Impact: 1.4198961641937429
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18477155319704924
+Equal Opportunity Difference: 0.07057877849241523
+Average Absolute Odds Difference: 0.04152665945450615
+Disparate Impact: 1.4253796958730924
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1939978693039056
+Equal Opportunity Difference: 0.0685807390217581
+Average Absolute Odds Difference: 0.05110081088023945
+Disparate Impact: 1.4611268251662717
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18535447948702494
+Equal Opportunity Difference: 0.07160113786277855
+Average Absolute Odds Difference: 0.042109376917252514
+Disparate Impact: 1.4211016631807762
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19428062205605473
+Equal Opportunity Difference: 0.07837852331240547
+Average Absolute Odds Difference: 0.050363200331472915
+Disparate Impact: 1.460590021857368
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19786528372429596
+Equal Opportunity Difference: 0.07609415653337515
+Average Absolute Odds Difference: 0.054809390817110476
+Disparate Impact: 1.4740522422561257
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.12480652877444776
+Equal Opportunity Difference: 0.05195347188185251
+Average Absolute Odds Difference: 0.03367912605178358
+Disparate Impact: 1.2316739177481102
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13277318807078198
+Equal Opportunity Difference: 0.03595040105272873
+Average Absolute Odds Difference: 0.012314258879467355
+Disparate Impact: 1.2540115520392965
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13068805403123684
+Equal Opportunity Difference: 0.03572839666710015
+Average Absolute Odds Difference: 0.009325172041356827
+Disparate Impact: 1.250485436893204
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13290451399358105
+Equal Opportunity Difference: 0.038854101718575174
+Average Absolute Odds Difference: 0.01139599896930446
+Disparate Impact: 1.2550034967911798
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13166763821048333
+Equal Opportunity Difference: 0.03508572314524927
+Average Absolute Odds Difference: 0.011543051840640334
+Disparate Impact: 1.2514980329119303
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1305486877458173
+Equal Opportunity Difference: 0.03616073562083988
+Average Absolute Odds Difference: 0.008888325208362496
+Disparate Impact: 1.2502845310183768
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13290451399358105
+Equal Opportunity Difference: 0.038854101718575174
+Average Absolute Odds Difference: 0.01139599896930446
+Disparate Impact: 1.2550034967911798
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13277184801034525
+Equal Opportunity Difference: 0.036482072381765374
+Average Absolute Odds Difference: 0.012459117045800328
+Disparate Impact: 1.2541432070898153
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.13234838891234002
+Equal Opportunity Difference: 0.03755708485735598
+Average Absolute Odds Difference: 0.010989445535065534
+Disparate Impact: 1.25407103276892
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1333185926685293
+Equal Opportunity Difference: 0.03874309952576083
+Average Absolute Odds Difference: 0.011969449773292729
+Disparate Impact: 1.2560013792429088
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19161524184740736
+Equal Opportunity Difference: 0.08055730602818312
+Average Absolute Odds Difference: 0.05270000827668764
+Disparate Impact: 1.4053291758202822
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18335242919455663
+Equal Opportunity Difference: 0.07518821748538773
+Average Absolute Odds Difference: 0.03894152840127514
+Disparate Impact: 1.4018113579898859
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.194655838978338
+Equal Opportunity Difference: 0.076269203796136
+Average Absolute Odds Difference: 0.05300547059141364
+Disparate Impact: 1.4404377118669764
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19282397636133392
+Equal Opportunity Difference: 0.07859427601007829
+Average Absolute Odds Difference: 0.051938350207061834
+Disparate Impact: 1.4150355640932455
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.18598162777141247
+Equal Opportunity Difference: 0.07400220281698289
+Average Absolute Odds Difference: 0.04226727437709947
+Disparate Impact: 1.4086857425550148
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.194655838978338
+Equal Opportunity Difference: 0.076269203796136
+Average Absolute Odds Difference: 0.05300547059141364
+Disparate Impact: 1.4404377118669764
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.1944441094293352
+Equal Opportunity Difference: 0.0791669306268249
+Average Absolute Odds Difference: 0.05358080530662572
+Disparate Impact: 1.426893203883495
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19369501564520558
+Equal Opportunity Difference: 0.07952925067546013
+Average Absolute Odds Difference: 0.050450721315209515
+Disparate Impact: 1.4362202015385497
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied
+
+Fairness Metrics:
+Statistical Parity Difference: 0.19659088624896986
+Equal Opportunity Difference: 0.07647953836424726
+Average Absolute Odds Difference: 0.055239448573026276
+Disparate Impact: 1.4462095773414119
+Statistical Parity Fairness Condition Satisfied: False
+Equal Opportunity Fairness Condition Satisfied: True
+Average Absolute Odds Fairness Condition Satisfied: True
+Disparate Impact Fairness Condition Satisfied: False
+Not all conditions satisfied

@@ -1,0 +1,6 @@
+Best Hyperparameters for KNN: {'n_neighbors': 3, 'weights': 'distance', 'metric': 'manhattan'}
+Best Cross-validated Accuracy: 0.7971428571428572
+Best Accuracy with Fairness Conditions Met: 0
+Best Hyperparameters with Fairness Conditions Met: {}
+
+Final Model Accuracy with Best Hyperparameters: 0.7971428571428572

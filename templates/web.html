@@ -1,0 +1,92 @@
+<form action="/predict" method="POST">
+    <label for="loan_id">Loan ID:</label>
+    <input type="text" id="loan_id" name="Loan_ID" required><br><br>
+
+    <label for="gender">Gender:</label>
+    <select id="gender" name="Gender" required>
+        <option value="0">Female</option>
+        <option value="1">Male</option>
+    </select><br><br>
+
+    <label for="married">Married:</label>
+    <select id="married" name="Married" required>
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+    </select><br><br>
+
+    <label for="dependents">Dependents:</label>
+    <input type="number" id="dependents" name="Dependents" min="0" required><br><br>
+
+    <label for="education">Education:</label>
+    <select id="education" name="Education" required>
+        <option value="Graduate">Graduate</option>
+        <option value="Not Graduate">Not Graduate</option>
+    </select><br><br>
+
+    <label for="self_employed">Self-Employed:</label>
+    <select id="self_employed" name="Self_Employed" required>
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+    </select><br><br>
+
+    <label for="applicant_income">Applicant Income:</label>
+    <input type="number" id="applicant_income" name="ApplicantIncome" required><br><br>
+
+    <label for="coapplicant_income">Coapplicant Income:</label>
+    <input type="number" id="coapplicant_income" name="CoapplicantIncome"><br><br>
+
+    <label for="loan_amount">Loan Amount:</label>
+    <input type="number" id="loan_amount" name="LoanAmount" required><br><br>
+
+    <label for="loan_amount_term">Loan Amount Term:</label>
+    <input type="number" id="loan_amount_term" name="Loan_Amount_Term" required><br><br>
+
+    <label for="credit_history">Credit History:</label>
+    <select id="credit_history" name="Credit_History" required>
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+    </select><br><br>
+
+    <label for="property_area">Property Area:</label>
+    <select id="property_area" name="Property_Area" required>
+        <option value="0">Rural</option>
+        <option value="1">Semiurban</option>
+        <option value="2">Urban</option>
+    </select><br><br>
+
+    <label for="age">Age:</label>
+    <input type="number" id="age" name="age" required><br><br>
+
+    <label for="hypertension">Hypertension:</label>
+    <select id="hypertension" name="hypertension" required>
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+    </select><br><br>
+
+    <label for="heart_disease">Heart Disease:</label>
+    <select id="heart_disease" name="heart_disease" required>
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+    </select><br><br>
+
+    <label for="avg_glucose_level">Average Glucose Level:</label>
+    <input type="number" step="0.1" id="avg_glucose_level" name="avg_glucose_level" required><br><br>
+
+    <label for="bmi">BMI:</label>
+    <input type="number" step="0.1" id="bmi" name="bmi" required><br><br>
+
+    <label for="smoking_status">Smoking Status:</label>
+    <select id="smoking_status" name="smoking_status" required>
+        <option value="0">Never Smoked</option>
+        <option value="1">Formerly Smoked</option>
+        <option value="2">Smokes</option>
+    </select><br><br>
+
+    <label for="stroke">Stroke:</label>
+    <select id="stroke" name="stroke" required>
+        <option value="0">No</option>
+        <option value="1">Yes</option>
+    </select><br><br>
+
+    <button type="submit">Submit</button>
+</form>
